@@ -101,6 +101,10 @@ def read_aloud_text(text_to_read):
     espeak.synth(text_to_read)
 
 
+def send_description_to_email():
+    #TODO email a copy of picture and the description google came up with
+
+
 def main():
     while True:
         toggle_on_led("ON")
@@ -127,6 +131,7 @@ def main():
         if more_info_button.is_pressed:
             try:
                 print(picture_contents)
+                #TODO list labels and confidence in a string for reading aloud
 
 
 
