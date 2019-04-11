@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="690d2e10-aa6c-4652-a833-44192bd6c4c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/picamera.py" beforeDir="false" afterPath="$PROJECT_DIR$/picamera.py" afterDir="false" />
-    </list>
+    <list default="true" id="690d2e10-aa6c-4652-a833-44192bd6c4c1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,42 +13,43 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.57" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1791" />
-          <entry key="txt" value="30" />
+          <entry key="py" value="2713" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="1791" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="2713" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud_component.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="34">
               <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -59,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/picamera.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="104" column="73" selection-start-line="104" selection-start-column="73" selection-end-line="104" selection-end-column="73" />
+            <state relative-caret-position="204">
+              <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="32" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
                 <marker date="1554982938793" expanded="true" signature="468:780" ph="..." />
@@ -74,6 +73,24 @@
                 <marker date="1554982938793" expanded="true" signature="2443:2520" ph="..." />
                 <marker date="1554982938793" expanded="true" signature="2531:3526" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json_sample.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="275" column="2" lean-forward="true" selection-start-line="275" selection-start-column="2" selection-end-line="275" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/json_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -105,13 +122,15 @@
         <option value="$PROJECT_DIR$/cloud_component.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/picamera.py" />
+        <option value="$PROJECT_DIR$/json_sample.txt" />
+        <option value="$PROJECT_DIR$/json_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1238" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1239" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -119,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +150,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,6 +167,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="json_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLCamera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.json_test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,23 +209,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="990" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="998" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2123656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10442829" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32947975" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3325554" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.14797688" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32947975" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -190,10 +237,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cloud_component.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="34">
           <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="28" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picamera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1554982938793" expanded="true" signature="468:780" ph="..." />
+            <marker date="1554982938793" expanded="true" signature="809:814" ph="..." />
+            <marker date="1554982938793" expanded="true" signature="1296:1301" ph="..." />
+            <marker date="1554982938793" expanded="true" signature="2351:2356" ph="..." />
+            <marker date="1554982938793" expanded="true" signature="2443:2448" ph="..." />
+            <marker date="1554982938793" expanded="true" signature="2443:2520" ph="..." />
+            <marker date="1554982938793" expanded="true" signature="2531:3526" ph="..." />
           </folding>
         </state>
       </provider>
@@ -205,20 +269,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picamera.py">
+    <entry file="file://$PROJECT_DIR$/json_sample.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="104" column="73" selection-start-line="104" selection-start-column="73" selection-end-line="104" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1554982938793" expanded="true" signature="468:780" ph="..." />
-            <marker date="1554982938793" expanded="true" signature="809:814" ph="..." />
-            <marker date="1554982938793" expanded="true" signature="1296:1301" ph="..." />
-            <marker date="1554982938793" expanded="true" signature="2351:2356" ph="..." />
-            <marker date="1554982938793" expanded="true" signature="2443:2448" ph="..." />
-            <marker date="1554982938793" expanded="true" signature="2443:2520" ph="..." />
-            <marker date="1554982938793" expanded="true" signature="2531:3526" ph="..." />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="275" column="2" lean-forward="true" selection-start-line="275" selection-start-column="2" selection-end-line="275" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

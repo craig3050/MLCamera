@@ -1,0 +1,595 @@
+{
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 161
+            },
+            {
+              "x": 587
+            },
+            {
+              "x": 587,
+              "y": 521
+            },
+            {
+              "x": 161,
+              "y": 521
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.66999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 115
+            },
+            {
+              "x": 649
+            },
+            {
+              "x": 649,
+              "y": 521
+            },
+            {
+              "x": 115,
+              "y": 521
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.79999995
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 60
+            },
+            {
+              "x": 695
+            },
+            {
+              "x": 695,
+              "y": 521
+            },
+            {
+              "x": 60,
+              "y": 521
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.9
+      }
+    ]
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 161
+            },
+            {
+              "x": 587
+            },
+            {
+              "x": 587,
+              "y": 521
+            },
+            {
+              "x": 161,
+              "y": 521
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.66999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 115
+            },
+            {
+              "x": 649
+            },
+            {
+              "x": 649,
+              "y": 521
+            },
+            {
+              "x": 115,
+              "y": 521
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.79999995
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 60
+            },
+            {
+              "x": 695
+            },
+            {
+              "x": 695,
+              "y": 521
+            },
+            {
+              "x": 60,
+              "y": 521
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.9
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 118,
+            "green": 124,
+            "red": 131
+          },
+          "hex": "837C76",
+          "percent": 21.007524904446697,
+          "percentRounded": 21,
+          "pixelFraction": 0.27127346,
+          "rgb": "131, 124,\n 118",
+          "score": 0.108759716
+        },
+        {
+          "color": {
+            "blue": 61,
+            "green": 128,
+            "red": 223
+          },
+          "hex": "DF803D",
+          "percent": 19.456569054284788,
+          "percentRounded": 19,
+          "pixelFraction": 0.021053404,
+          "rgb": "223, 128,\n 61",
+          "score": 0.10073014
+        },
+        {
+          "color": {
+            "blue": 177,
+            "green": 198,
+            "red": 216
+          },
+          "hex": "D8C6B1",
+          "percent": 12.855261615571855,
+          "percentRounded": 13,
+          "pixelFraction": 0.03631162,
+          "rgb": "216, 198,\n 177",
+          "score": 0.06655399
+        },
+        {
+          "color": {
+            "blue": 58,
+            "green": 62,
+            "red": 142
+          },
+          "hex": "8E3E3A",
+          "percent": 5.327280976205265,
+          "percentRounded": 5,
+          "pixelFraction": 0.007262324,
+          "rgb": "142, 62,\n 58",
+          "score": 0.027580287
+        },
+        {
+          "color": {
+            "blue": 27,
+            "green": 39,
+            "red": 79
+          },
+          "hex": "4F271B",
+          "percent": 4.825897883491806,
+          "percentRounded": 5,
+          "pixelFraction": 0.007922535,
+          "rgb": "79, 39,\n 27",
+          "score": 0.024984537
+        },
+        {
+          "color": {
+            "blue": 15,
+            "green": 21,
+            "red": 28
+          },
+          "hex": "1C150F",
+          "percent": 2.617449212562599,
+          "percentRounded": 3,
+          "pixelFraction": 0.028902583,
+          "rgb": "28, 21,\n 15",
+          "score": 0.013551003
+        },
+        {
+          "color": {
+            "blue": 192,
+            "green": 133,
+            "red": 51
+          },
+          "hex": "3385C0",
+          "percent": 0.6276399412156077,
+          "percentRounded": 1,
+          "pixelFraction": 0.09191608,
+          "rgb": "51, 133,\n 192",
+          "score": 0.0032494043
+        },
+        {
+          "color": {
+            "blue": 42,
+            "green": 100,
+            "red": 193
+          },
+          "hex": "C1642A",
+          "percent": 13.46453261480581,
+          "percentRounded": 13,
+          "pixelFraction": 0.012690728,
+          "rgb": "193, 100,\n 42",
+          "score": 0.069708295
+        },
+        {
+          "color": {
+            "blue": 100,
+            "green": 122,
+            "red": 140
+          },
+          "hex": "8C7A64",
+          "percent": 10.340912373826319,
+          "percentRounded": 10,
+          "pixelFraction": 0.022447184,
+          "rgb": "140, 122,\n 100",
+          "score": 0.053536754
+        },
+        {
+          "color": {
+            "blue": 125,
+            "green": 146,
+            "red": 164
+          },
+          "hex": "A4927D",
+          "percent": 9.47693142358927,
+          "percentRounded": 9,
+          "pixelFraction": 0.024721244,
+          "rgb": "164, 146,\n 125",
+          "score": 0.04906377
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Chinese architecture",
+      "mid": "/m/03ty65",
+      "score": 0.98911446,
+      "topicality": 0.98911446
+    },
+    {
+      "description": "Architecture",
+      "mid": "/m/03nfmq",
+      "score": 0.95081073,
+      "topicality": 0.95081073
+    },
+    {
+      "description": "Landmark",
+      "mid": "/m/05_5t0l",
+      "score": 0.9370047,
+      "topicality": 0.9370047
+    },
+    {
+      "description": "Sky",
+      "mid": "/m/01bqvp",
+      "score": 0.9127335,
+      "topicality": 0.9127335
+    },
+    {
+      "description": "Building",
+      "mid": "/m/0cgh4",
+      "score": 0.8970348,
+      "topicality": 0.8970348
+    },
+    {
+      "description": "Historic site",
+      "mid": "/m/07yr8h",
+      "score": 0.8947394,
+      "topicality": 0.8947394
+    },
+    {
+      "description": "Temple",
+      "mid": "/m/0cx45",
+      "score": 0.8774943,
+      "topicality": 0.8774943
+    },
+    {
+      "description": "Shrine",
+      "mid": "/m/02cwf_",
+      "score": 0.8189265,
+      "topicality": 0.8189265
+    },
+    {
+      "description": "Japanese architecture",
+      "mid": "/m/01yjfd",
+      "score": 0.8075084,
+      "topicality": 0.8075084
+    },
+    {
+      "description": "Place of worship",
+      "mid": "/m/02nvjx",
+      "score": 0.80666363,
+      "topicality": 0.80666363
+    },
+    {
+      "description": "Morning",
+      "mid": "/m/02_ktj",
+      "score": 0.79107475,
+      "topicality": 0.79107475
+    },
+    {
+      "description": "Tourism",
+      "mid": "/m/07bxq",
+      "score": 0.7786711,
+      "topicality": 0.7786711
+    },
+    {
+      "description": "Shinto shrine",
+      "mid": "/m/042fmw",
+      "score": 0.6888673,
+      "topicality": 0.6888673
+    },
+    {
+      "description": "Pagoda",
+      "mid": "/m/01q4vl",
+      "score": 0.6850788,
+      "topicality": 0.6850788
+    },
+    {
+      "description": "Tourist attraction",
+      "mid": "/m/0pgl9",
+      "score": 0.6654898,
+      "topicality": 0.6654898
+    },
+    {
+      "description": "Leisure",
+      "mid": "/m/04g3r",
+      "score": 0.63881713,
+      "topicality": 0.63881713
+    },
+    {
+      "description": "Temple",
+      "mid": "/m/08g_yr",
+      "score": 0.6256435,
+      "topicality": 0.6256435
+    },
+    {
+      "description": "Vacation",
+      "mid": "/m/02jwqh",
+      "score": 0.6000337,
+      "topicality": 0.6000337
+    },
+    {
+      "description": "City",
+      "mid": "/m/01n32",
+      "score": 0.59574616,
+      "topicality": 0.59574616
+    },
+    {
+      "description": "Facade",
+      "mid": "/m/01x314",
+      "score": 0.5649075,
+      "topicality": 0.5649075
+    },
+    {
+      "description": "Roof",
+      "mid": "/m/06hyd",
+      "score": 0.54362583,
+      "topicality": 0.54362583
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.09075918,
+            "y": 0.1100962
+          },
+          {
+            "x": 0.9497114,
+            "y": 0.1100962
+          },
+          {
+            "x": 0.9497114,
+            "y": 0.4899038
+          },
+          {
+            "x": 0.09075918,
+            "y": 0.4899038
+          }
+        ]
+      },
+      "mid": "/m/0cgh4",
+      "name": "Building",
+      "score": 0.635907
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "webDetection": {
+    "bestGuessLabels": [
+      {
+        "label": "chinese architecture"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://www.crw-uk.com/upload/KMHJ0/img/59c361200cc3a_b.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "pageTitle": "Projects - CRW",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.crw-uk.com/upload/KMHJ0/img/59c361200cc3a_s.jpg"
+          }
+        ],
+        "url": "http://www.crw-uk.com/mav2PeUwS.html"
+      },
+      {
+        "pageTitle": "National Performing A... - CRW",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.crw-uk.com/upload/KMHJ0/img/59c361200cc3a_s.jpg"
+          }
+        ],
+        "url": "http://www.crw-uk.com/ty5Lbv7EX.html"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "http://www.crw-uk.com/upload/KMHJ0/img/59c361200cc3a_b.jpg"
+          }
+        ],
+        "pageTitle": "CRW",
+        "url": "http://crw-uk.com/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "http://www.crw-uk.com/upload/KMHJ0/img/59c361200cc3a_b.jpg"
+          }
+        ],
+        "pageTitle": "National Performing Arts Center - CRW",
+        "url": "http://www.crw-uk.com/ty5Lbv7EX/OQIXyP5iD-X.html"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "http://www.crw-uk.com/upload/KMHJ0/img/59c361200cc3a_s.jpg"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://echinatravel.com/blog/wp-content/uploads/2013/03/Imperial-Palace-300x225.jpg"
+      },
+      {
+        "url": "https://image.shutterstock.com/image-photo/taipeitaiwan-july-20-2018-visitor-260nw-1199258314.jpg"
+      },
+      {
+        "url": "https://www.asiantrails.travel/admin/image_tours/Tiananmen+Forbidden%20City+Summer%20Palace%28with%20Lunch%29.JPG"
+      },
+      {
+        "url": "http://www.onthegotours.com/blog/wp-content/uploads/2012/10/dreamstime_10561845tian.jpg"
+      },
+      {
+        "url": "http://www.garbo.org/wordpress/wp-content/uploads/2018/10/forbidden-palace-2-1024x683.jpg"
+      },
+      {
+        "url": "https://henryjacksonsociety.org/wp-content/uploads/2016/11/c.jpg"
+      },
+      {
+        "url": "https://cdn.pixabay.com/photo/2014/11/22/09/05/beijing-541492__340.jpg"
+      },
+      {
+        "url": "http://4.bp.blogspot.com/_XGR4eou1eUU/TD3Pk1HBA8I/AAAAAAAAAD8/i7ABTJqE6O4/s1600/DSCI0176.JPG"
+      }
+    ],
+    "webEntities": [
+      {
+        "description": "Shinto shrine",
+        "entityId": "/m/042fmw",
+        "score": 0.45178533
+      },
+      {
+        "description": "Ocean Flower Island",
+        "entityId": "/g/11bxfshk46",
+        "score": 0.2709
+      },
+      {
+        "description": "Asian Games",
+        "entityId": "/m/09s0z",
+        "score": 0.20115
+      },
+      {
+        "description": "Room",
+        "entityId": "/m/06ht1",
+        "score": 0.174
+      },
+      {
+        "entityId": "/t/23glvb2qqc8y1",
+        "score": 0.1684
+      },
+      {
+        "description": "Tourism",
+        "entityId": "/g/120yrv6h",
+        "score": 0.1649
+      },
+      {
+        "description": "Chinese architecture",
+        "entityId": "/m/03ty65",
+        "score": 0.16352774
+      },
+      {
+        "description": "Leisure",
+        "entityId": "/m/04g3r",
+        "score": 0.16320114
+      },
+      {
+        "description": "Baths",
+        "entityId": "/m/03dnzn",
+        "score": 0.1509
+      },
+      {
+        "description": "Shrine",
+        "entityId": "/m/02cwf_",
+        "score": 0.1506
+      },
+      {
+        "description": "Shower",
+        "entityId": "/m/02f9f_",
+        "score": 0.146
+      },
+      {
+        "description": "Dar Aleiman Grand Hotel",
+        "entityId": "/g/1hc4p45dy",
+        "score": 0.1426
+      },
+      {
+        "description": "Vacation",
+        "entityId": "/m/02jwqh",
+        "score": 0.1401
+      },
+      {
+        "description": "Bathroom",
+        "entityId": "/m/01j2bj",
+        "score": 0.1386
+      },
+      {
+        "description": "Website",
+        "entityId": "/m/085n4",
+        "score": 0.1332
+      }
+    ]
+  }
+}
