@@ -1,0 +1,6 @@
+google-cloud-vision
+picamera
+gpiozero
+
+# sudo apt-get install espeak
+# sudo apt-get install espeak python-espeak
