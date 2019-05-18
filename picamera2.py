@@ -6,7 +6,7 @@ import io
 import os
 from gtts import gTTs
 
-
+camera = PiCamera()
 
 # Imports the Google Cloud client library
 from google.cloud import vision
@@ -41,8 +41,7 @@ def google_vision(file_name):
     client = vision.ImageAnnotatorClient()
 
     # The name of the image file to annotate
-    file_name = os.path.join(os.path.dirname(__file__),
-        f'resources/{file_name}.jpg')
+    file_name = os.path.join(os.path.dirname(__file__), f'resources/{file_name}.jpg')
 
     # Loads the image into memory
     with io.open(file_name, 'rb') as image_file:
