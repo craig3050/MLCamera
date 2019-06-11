@@ -58,7 +58,6 @@ def google_vision(file_name):
     return labels
 
 
-
 def picture_loop():
     file_name = camera.capture(('/resources/{the_time}.jpg').format(the_time=current_time())) #takes the picture & saves it
 
@@ -86,8 +85,6 @@ def read_list_of_text():
         text_to_speech(item)
 
 
-
-
 def text_to_speech(text_to_read):
     #todo
     print("==========================================")
@@ -97,15 +94,12 @@ def text_to_speech(text_to_read):
     os.system("mpg321 read_aloud.mp3") # mpg321 is a command line mp3 player
 
 
-
-#start the main loop
+# start the main loop
 def main():
     while True:
         camera_button.when_pressed = picture_loop()
         more_info_button.when_pressed = read_list_of_text()
         sleep(0.001)
-
-
 
 
 if __name__ == '__main__':

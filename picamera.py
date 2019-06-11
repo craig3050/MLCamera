@@ -73,7 +73,7 @@ def process_the_picture(file_name):
     #TODO return a set of labels with percentage confidence
 
 
-def google_vision(file_name)
+def google_vision(file_name):
     # Instantiates a client
     client = vision.ImageAnnotatorClient()
 

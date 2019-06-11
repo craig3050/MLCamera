@@ -41,7 +41,7 @@ def google_vision(file_name):
     client = vision.ImageAnnotatorClient()
 
     # The name of the image file to annotate
-    file_name = os.path.join((os.path.dirname(__file__), 'resources/{file_name}.jpg').format(file_name=file_name))
+    file_name = os.path.join(os.path.dirname(__file__), f'resources/{file_name}.jpg')
 
     # Loads the image into memory
     with io.open(file_name, 'rb') as image_file:
@@ -60,7 +60,7 @@ def google_vision(file_name):
 
 
 def picture_loop():
-    file_name = camera.capture(('/resources/{the_time}.jpg').format(the_time=current_time())) #takes the picture & saves it
+    file_name = camera.capture(f'/resources/{current_time()}.jpg') #takes the picture & saves it
 
     processing_led.blink(on_time=0.2,off_time=0.2,n=None,background=True) # start processing LED flashing
 
@@ -73,7 +73,7 @@ def picture_loop():
     for label in labels['labelAnnotations']:
         percentage_score = int(label['score'] * 100)
         description = label['description']
-        text = (('{description} at {percentage_score} percent').format(description=description, percentage_score=percentage_score))
+        text = (f'{description} at {percentage_score} percent')
         read_aloud_text.append(text)
         for item in read_aloud_text[0:5]:
             print(item)
